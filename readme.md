@@ -3,8 +3,6 @@
 [![Production Workflow 1](https://github.com/SwapnilAryan97/project3/actions/workflows/prod.yml/badge.svg)](https://github.com/SwapnilAryan97/project3/actions/workflows/prod.yml)
 * [Production Deployment](https://project3-601-prod.herokuapp.com/)
 
-[//]: # (* https://project3-601-prod.herokuapp.com/)
-
 
 [![Development Workflow 3.8](https://github.com/SwapnilAryan97/project3/actions/workflows/dev.yml/badge.svg)](https://github.com/SwapnilAryan97/project3/actions/workflows/dev.yml)
 * [Developmental Deployment](https://project3-601-dev.herokuapp.com/)
